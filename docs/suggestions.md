@@ -55,7 +55,8 @@ If for some reason it is not possible or appropiate to do the suggestion within 
 Use/example:
 ```
 ??approve <ID> <Reason>
-??approve 18 great idea, we'll add that in!```
+??approve 18 great idea, we'll add that in!
+```
 
 #### 4. Implemented.
 At this stage, the suggestion should be considered completed and is now in effect in the server. The suggestion should also now be considered closed and there is no further action needed. Once again, making the suggestion will have the same effects as mentioned above.
