@@ -1,0 +1,8 @@
+site_name: Angel Beats! Docs
+#site_url:
+markdown_extensions:
+  - admonition
+theme:
+  name: 'readthedocs'
+nav:
+- Welcome: index.md
