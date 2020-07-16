@@ -31,6 +31,7 @@ Use/example:
 ```
 ??consider <ID> <Reason>
 ??consider 15 nice idea, will look into it```
+
 ##### Deny
 If the suggestion is abuse, not possible, a duplicate, or any other reason why we would not do the suggestion, mark it as denied. CarlBot will do the exact same things as above but 'deny' rather than 'consider'.
 
@@ -55,8 +56,7 @@ If for some reason it is not possible or appropiate to do the suggestion within 
 Use/example:
 ```
 ??approve <ID> <Reason>
-??approve 18 great idea, we'll add that in!
-```
+??approve 18 great idea, we'll add that in!```
 
 #### 4. Implemented.
 At this stage, the suggestion should be considered completed and is now in effect in the server. The suggestion should also now be considered closed and there is no further action needed. Once again, making the suggestion will have the same effects as mentioned above.
@@ -66,8 +66,7 @@ It is still possible to deny the suggestion at this stage but it should only rea
 Use/example:
 ```
 ??implemented <ID> <Reason>
-??implemented 6 now in place, check #Example
-```
+??implemented 6 now in place, check #Example```
 
 #### Overview.
 This page is assuming that the suggestion is more of a complex one, taking up a bit of time to work out how to complete, or needs Council input before we can go ahead with it. It is aimed at keeping being transparant, showing that we are working on their suggestion and providing better management of suggestions to make "I forgot" a thing of the past.

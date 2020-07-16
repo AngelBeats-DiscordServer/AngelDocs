@@ -6,6 +6,4 @@ theme:
   name: 'readthedocs'
 nav:
 - Welcome: index.md
-- Suggestions:
-  - For Staff: suggestionsMods.md
-  - For Users: suggestionsUsers.md
+- Suggestions: suggestionsMods.md
