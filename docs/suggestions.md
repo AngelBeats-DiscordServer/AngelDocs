@@ -66,7 +66,8 @@ It is still possible to deny the suggestion at this stage but it should only rea
 Use/example:
 ```
 ??implemented <ID> <Reason>
-??implemented 6 now in place, check #Example```
+??implemented 6 now in place, check #Example
+```
 
 #### Overview.
 This page is assuming that the suggestion is more of a complex one, taking up a bit of time to work out how to complete, or needs Council input before we can go ahead with it. It is aimed at keeping being transparant, showing that we are working on their suggestion and providing better management of suggestions to make "I forgot" a thing of the past.
