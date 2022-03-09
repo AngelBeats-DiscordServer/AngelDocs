@@ -1,6 +1,6 @@
 # Welcome to Angel Beats! Docs!
 
-This is a documentation site that documents (mostly for staff/admins) how the [Angel Beats! discord server](https://discord.gg/bbXNJna) works, how to use it's bots, the channels, permissions, etc. But it can also be a useful utility for the users of the server too.
+This is a documentation site that documents (mostly for staff/admins) how the [Angel Beats! discord server](https://discord.gg/9cNAWKBaAe) works, how to use it's bots, the channels, permissions, etc. But it can also be a useful utility for the users of the server too.
 
 !!! warning "Important note:"
     This documentation is publicly available and accessable. From the [Github repo](https://github.com/KanChiMoe/AngelDocs), to [the site you are accessing it from](https://angelbeatsdocs.readthedocs.io). Don't put any private or sensitive information or practices here.
