@@ -1,6 +1,6 @@
 ### Old Fan colours
 
-These are the hex values for the Angel Beats character roles from the old server.
+These are the hex values for the Angel Beats character roles from the old server
 
 Role|Hex
 :--|:--
