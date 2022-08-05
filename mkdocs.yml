@@ -8,4 +8,6 @@ nav:
 - Welcome: index.md
 - Suggestions: suggestionsMods.md
 - Ids: ids-fan.md
-- Old fan colours: fancolours-old.md
+- Technical information:
+  - Old fan colours: fancolours-old.md
+ 
