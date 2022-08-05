@@ -1,6 +1,8 @@
-### Old Fan colours
+## Old role colours
 
-These are the hex values for the Angel Beats character roles from the old server
+### Character roles
+
+These are the hex values for the character roles from the old server.
 
 Role|Hex
 :--|:--
@@ -26,4 +28,10 @@ Hisako      |#974c31
 Matsushita  |#92280f
 Ooyama      |#884859
 
+### Retired roles
 
+As all of the roles from the old server got deleted, the only logs of the role colours are from Terraform files. 
+
+Role|Hex
+:--|:--
+Sarge     |#f56968

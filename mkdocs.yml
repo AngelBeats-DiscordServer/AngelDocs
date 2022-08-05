@@ -9,7 +9,7 @@ nav:
 - Suggestions: suggestionsMods.md
 - Ids: ids-fan.md
 - Technical information:
-  - Old fan colours: fancolours-old.md
+  - Old fan colours: technical/rolecolours-old.md
 - Test:
   - Test 2:
     - Test 3: ids-fan.md
