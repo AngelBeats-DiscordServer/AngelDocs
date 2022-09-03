@@ -10,5 +10,6 @@ nav:
 - Ids: ids-fan.md
 - Technical information:
   - Channel & Category IDs: technical/channelids.md
+  - Role IDs & Colours: technical/roleids.md
   - Old fan colours: technical/rolecolours-old.md
 
