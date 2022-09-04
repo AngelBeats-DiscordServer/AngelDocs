@@ -6,7 +6,7 @@ These are the IDs for
 
 #### Character role colours
 
-Channel|ID
+Role|ID
 :--|:--
 Kanade (silver)         | 959508090380755044 
 Fujimaki                | 933147290946928641   
