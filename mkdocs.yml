@@ -9,9 +9,8 @@ nav:
 - Suggestions: suggestionsMods.md
 - Ids: ids-fan.md
 - Technical information:
-  - Old fan colours: fancolours-old.md
-- Test:
-  - Test 2:
-    - Test 3: ids-fan.md
-  
+  - Channel & Category IDs: technical/channelids.md
+  - Role IDs & Colours: technical/roleids.md
+  - Emoji IDs: technical/emojiids.md
+  - Old fan colours: technical/rolecolours-old.md
 
